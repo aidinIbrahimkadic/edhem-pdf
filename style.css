@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+@page {
+  margin: 20px 10px;
+}
+body {
+  font-family: "DejaVu Sans";
+}
+.container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.header img,
+.footer img {
+  width: 100%;
+}
+
+.text-container {
+  height: 100%;
+}
+.text-box {
+  margin: 100px 20px 10px;
+}
+.zaglavlje {
+  font-size: 14px;
+  line-height: 1.5;
+}
