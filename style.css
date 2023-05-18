@@ -26,15 +26,16 @@ body {
 }
 .text-box {
   margin: 100px 20px 0px;
+  font-size: 16px;
 }
 .zaglavlje {
   font-size: 14px;
   line-height: 1.5;
 }
-.zaglavlje,
+/* .zaglavlje,
 .predmet {
-  margin-bottom: 50px;
-}
+  margin-bottom: 50px; */
+/* } */
 .potpis {
   width: 95%;
   display: flex;
